@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Do Laundry",
+    "description": "Use cold water, hang dry",
+    "progress": 0,
+    "inProgress": true,
+    "completed": false
+  },
+  {
+    "id": 2,
+    "title": "Do Dishes",
+    "description": "Hand wash cast iron, do not use soap",
+    "progress": 100,
+    "inProgress": false,
+    "completed": true
+  },
+  {
+    "id": 3,
+    "title": "Brush animals",
+    "description": "Beware of the siamese cat",
+    "progress": 0,
+    "inProgress": false,
+    "completed": false
+  }
+]
